@@ -1,2 +1,2 @@
 # are-you-baby
-frogger-inspired baby game
+Frogger-inspired baby game
